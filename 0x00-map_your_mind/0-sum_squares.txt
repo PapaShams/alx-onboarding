@@ -1,0 +1,7 @@
+Read num1,num2,sqr1,sqr2,sum
+Write "Enter two numbers"
+set sqr1 = num1*num1
+set sqr2 = num2*num2
+sem sum = sqr1 + sqr2
+Write "Sum  is: "
+Print sum
