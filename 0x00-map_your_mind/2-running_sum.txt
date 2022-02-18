@@ -1,0 +1,5 @@
+Read num
+Set sum = 0
+While (num >= 0)
+set sum = num + sum
+print sum
