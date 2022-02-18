@@ -1,1 +1,1 @@
-This is my second project in ALX
+calculating the sum of squares of given input of numbers
